@@ -1,0 +1,15 @@
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\Xioma-app1.exe.config
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\Xioma-app1.exe
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\Xioma-app1.pdb
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\EntityFramework.dll
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\EntityFramework.xml
+C:\Users\Nati\source\repos\Xioma-app1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma_app1.Form1.resources
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma_app1.frmAddEdit.resources
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma_app1.Properties.Resources.resources
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma-app1.csproj.GenerateResource.cache
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma-app1.csproj.CoreCompileInputs.cache
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma-app1.csproj.CopyComplete
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma-app1.exe
+C:\Users\Nati\source\repos\Xioma-app1\obj\Release\Xioma-app1.pdb
